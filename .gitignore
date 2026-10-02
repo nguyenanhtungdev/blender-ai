@@ -1,0 +1,12 @@
+# Blender automatic backups
+*.blend1
+*.blend2
+*.blend3
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
